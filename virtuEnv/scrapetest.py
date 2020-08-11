@@ -22,8 +22,4 @@ title = getTitle('http://www.pythonscraping.com/pages/page1.html')
 if title == None:
   print('Tag was not found!')
 else:
-<<<<<<< HEAD
-  print('It Worked!')
-=======
   print(title)
->>>>>>> features
